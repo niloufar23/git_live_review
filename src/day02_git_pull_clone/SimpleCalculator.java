@@ -1,7 +1,7 @@
 package day02_git_pull_clone;
 
 public class SimpleCalculator {
-    public static int add(int a, int b) {Add commentMore actions
+    public static int add(int a, int b) {
         return a + b;
     }
 
