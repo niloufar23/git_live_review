@@ -22,6 +22,7 @@ public class SimpleCalculator {
 
     public static void main(String[] args) {
         int x = 10, y = 5;
+        System.out.println("Starting calculator");
         System.out.println("Add: " + add(x, y));
         System.out.println("Subtract: " + subtract(x, y));
         System.out.println("Multiply: " + multiply(x, y));
